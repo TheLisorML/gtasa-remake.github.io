@@ -79,7 +79,6 @@ h3 {
 section {
 	display: flex;
     justify-content: center;
-    padding: 5em 0;
 	height: auto;
 	flex-wrap: wrap;
 }
